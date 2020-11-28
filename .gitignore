@@ -2,6 +2,7 @@
 *.pyo
 *.egg-info
 *.swp
+*.sqlite
 __pycache__
 build
 develop-eggs
